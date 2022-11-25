@@ -7,5 +7,5 @@ func main() {
 
 	myBill.format()
 
-	fmt.Println(myBill)
+	fmt.Println(myBill.format())
 }
